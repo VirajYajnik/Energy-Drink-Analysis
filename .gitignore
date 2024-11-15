@@ -47,3 +47,22 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+# Python-related ignores
+__pycache__/
+*.py[cod]
+*.pyo
+*.ipynb_checkpoints
+*.ipynb
+
+# Virtual environment folders
+env/
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
